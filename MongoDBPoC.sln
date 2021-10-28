@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{F3FEA6E3-B5B2-4D3A-B80F-DC11666AE228}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MongoDB", "MongoDB", "{6AFA0E4A-DE3E-4824-8665-D4F3FEA3B08A}"
+ProjectSection(SolutionItems) = preProject
+	MongoDB\docker-compose.yaml = MongoDB\docker-compose.yaml
+EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3FEA6E3-B5B2-4D3A-B80F-DC11666AE228}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3FEA6E3-B5B2-4D3A-B80F-DC11666AE228}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3FEA6E3-B5B2-4D3A-B80F-DC11666AE228}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3FEA6E3-B5B2-4D3A-B80F-DC11666AE228}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
